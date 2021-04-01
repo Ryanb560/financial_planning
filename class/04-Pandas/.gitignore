@@ -27,75 +27,75 @@
 # 1/Activities/10-Ins_Returns/Solved
 # 1/Activities/10-Ins_Returns/Solved/.ipynb_checkpoints
 1/Images
-2
-2/Activities
-2/Activities/01-csv-01
-2/Activities/01-csv-01/Solved
-2/Activities/01-Ins_Welcome
-2/Activities/01-Ins_Welcome/inclass
-2/Activities/01-Ins_Welcome/inclass/.ipynb_checkpoints
-2/Activities/01-Ins_Welcome/.ipynb_checkpoints
-2/Activities/01-Ins_Welcome/Solved
-2/Activities/01-Ins_Welcome/Solved/.ipynb_checkpoints
-2/Activities/02-columns-01
-2/Activities/02-columns-01/Solved
-2/Activities/02-Ins_Sorting
-2/Activities/02-Ins_Sorting/Solved
-2/Activities/02-Ins_Sorting/Solved/.ipynb_checkpoints
-2/Activities/03-data-cleaning-01
-2/Activities/03-data-cleaning-01/Solved
-2/Activities/03-Stu_Sorting
-2/Activities/03-Stu_Sorting/Solved
-2/Activities/03-Stu_Sorting/Solved/.ipynb_checkpoints
-2/Activities/04-indexes-01
-2/Activities/04-indexes-01/Solved
-2/Activities/05-Ins_Groupby
-2/Activities/05-Ins_Groupby/Solved
-2/Activities/05-Ins_Groupby/Solved/.ipynb_checkpoints
-2/Activities/05-sorting-01
-2/Activities/05-sorting-01/Solved
-2/Activities/06-groupby-01
-2/Activities/06-groupby-01/Solved
-2/Activities/06-Stu_Groupby
-2/Activities/06-Stu_Groupby/Solved
-2/Activities/06-Stu_Groupby/Solved/.ipynb_checkpoints
-2/Activities/07-binning-01
-2/Activities/07-binning-01/Solved
-2/Activities/08-Ins_Multi_Indexing
-2/Activities/08-Ins_Multi_Indexing/Solved
-2/Activities/08-Ins_Multi_Indexing/Solved/.ipynb_checkpoints
-2/Activities/08-returns-01
-2/Activities/08-returns-01/Solved
-2/Activities/09-rolling-statistics-01
-2/Activities/09-rolling-statistics-01/Solved
-2/Activities/09-Stu_Multi_Indexing
-2/Activities/09-Stu_Multi_Indexing/Solved
-2/Activities/09-Stu_Multi_Indexing/Solved/Core
-2/Activities/09-Stu_Multi_Indexing/Solved/Core/.ipynb_checkpoints
-2/Activities/10-concat-01
-2/Activities/10-concat-01/Solved
-2/Activities/11-correlation-01
-2/Activities/11-correlation-01/Solved
-2/Activities/12-beta-01
-2/Activities/12-beta-01/Solved
-2/Activities/13-portfolio-returns-01
-2/Activities/13-portfolio-returns-01/Solved
-2/Activities/14-culmination-01
-2/Activities/14-culmination-01/Solved
-2/Activities/15-culmination-02
-2/Activities/15-culmination-02/Solved
-2/Activities/15-Ins_Std_Dev_Risk
-2/Activities/15-Ins_Std_Dev_Risk/Solved
-2/Activities/15-Ins_Std_Dev_Risk/Solved/.ipynb_checkpoints
-2/Activities/16-culmination-03
-2/Activities/16-culmination-03/Solved
-2/Activities/17-culmination-04
-2/Activities/17-culmination-04/Solved
-2/Activities/17-Stu_Risky_Business
-2/Activities/17-Stu_Risky_Business/Solved
-2/Activities/17-Stu_Risky_Business/Solved/Core
-2/Activities/17-Stu_Risky_Business/Solved/Core/.ipynb_checkpoints
-2/Activities/.ipynb_checkpoints
+# 2
+# 2/Activities
+# 2/Activities/01-csv-01
+# 2/Activities/01-csv-01/Solved
+# 2/Activities/01-Ins_Welcome
+# 2/Activities/01-Ins_Welcome/inclass
+# 2/Activities/01-Ins_Welcome/inclass/.ipynb_checkpoints
+# 2/Activities/01-Ins_Welcome/.ipynb_checkpoints
+# 2/Activities/01-Ins_Welcome/Solved
+# 2/Activities/01-Ins_Welcome/Solved/.ipynb_checkpoints
+# 2/Activities/02-columns-01
+# 2/Activities/02-columns-01/Solved
+# 2/Activities/02-Ins_Sorting
+# 2/Activities/02-Ins_Sorting/Solved
+# 2/Activities/02-Ins_Sorting/Solved/.ipynb_checkpoints
+# 2/Activities/03-data-cleaning-01
+# 2/Activities/03-data-cleaning-01/Solved
+# 2/Activities/03-Stu_Sorting
+# 2/Activities/03-Stu_Sorting/Solved
+# 2/Activities/03-Stu_Sorting/Solved/.ipynb_checkpoints
+# 2/Activities/04-indexes-01
+# 2/Activities/04-indexes-01/Solved
+# 2/Activities/05-Ins_Groupby
+# 2/Activities/05-Ins_Groupby/Solved
+# 2/Activities/05-Ins_Groupby/Solved/.ipynb_checkpoints
+# 2/Activities/05-sorting-01
+# 2/Activities/05-sorting-01/Solved
+# 2/Activities/06-groupby-01
+# 2/Activities/06-groupby-01/Solved
+# 2/Activities/06-Stu_Groupby
+# 2/Activities/06-Stu_Groupby/Solved
+# 2/Activities/06-Stu_Groupby/Solved/.ipynb_checkpoints
+# 2/Activities/07-binning-01
+# 2/Activities/07-binning-01/Solved
+# 2/Activities/08-Ins_Multi_Indexing
+# 2/Activities/08-Ins_Multi_Indexing/Solved
+# 2/Activities/08-Ins_Multi_Indexing/Solved/.ipynb_checkpoints
+# 2/Activities/08-returns-01
+# 2/Activities/08-returns-01/Solved
+# 2/Activities/09-rolling-statistics-01
+# 2/Activities/09-rolling-statistics-01/Solved
+# 2/Activities/09-Stu_Multi_Indexing
+# 2/Activities/09-Stu_Multi_Indexing/Solved
+# 2/Activities/09-Stu_Multi_Indexing/Solved/Core
+# 2/Activities/09-Stu_Multi_Indexing/Solved/Core/.ipynb_checkpoints
+# 2/Activities/10-concat-01
+# 2/Activities/10-concat-01/Solved
+# 2/Activities/11-correlation-01
+# 2/Activities/11-correlation-01/Solved
+# 2/Activities/12-beta-01
+# 2/Activities/12-beta-01/Solved
+# 2/Activities/13-portfolio-returns-01
+# 2/Activities/13-portfolio-returns-01/Solved
+# 2/Activities/14-culmination-01
+# 2/Activities/14-culmination-01/Solved
+# 2/Activities/15-culmination-02
+# 2/Activities/15-culmination-02/Solved
+# 2/Activities/15-Ins_Std_Dev_Risk
+# 2/Activities/15-Ins_Std_Dev_Risk/Solved
+# 2/Activities/15-Ins_Std_Dev_Risk/Solved/.ipynb_checkpoints
+# 2/Activities/16-culmination-03
+# 2/Activities/16-culmination-03/Solved
+# 2/Activities/17-culmination-04
+# 2/Activities/17-culmination-04/Solved
+# 2/Activities/17-Stu_Risky_Business
+# 2/Activities/17-Stu_Risky_Business/Solved
+# 2/Activities/17-Stu_Risky_Business/Solved/Core
+# 2/Activities/17-Stu_Risky_Business/Solved/Core/.ipynb_checkpoints
+# 2/Activities/.ipynb_checkpoints
 2/.ipynb_checkpoints
 3
 3/Activities
