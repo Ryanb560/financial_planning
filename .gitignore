@@ -10,4 +10,5 @@ node_modules/
 **/.ipynb_checkpoints
 **/__pycache__
 
+.env
 
